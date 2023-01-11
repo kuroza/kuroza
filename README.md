@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harith Sufri</h1>
-<h3 align="center">An application developer that is interested in decentralized technologies and software development</h3>
+<h3 align="center">I'm an application developer that is interested in decentralized technologies and software development</h3>
 
 - 🔭 I’m currently working on **UI development and messaging for a client**
 
